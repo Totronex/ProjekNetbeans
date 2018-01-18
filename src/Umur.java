@@ -13,5 +13,6 @@ public static void main(String args[]){
     }else{
         System.out.println("Anda sudah tua dan perlukan rehat");
     }
+    System.out.println("Masukkan Umur anda = ");
 }
 }
